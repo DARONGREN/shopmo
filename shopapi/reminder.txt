@@ -1,0 +1,1 @@
+npm add express mongoose dotenv nodemon
